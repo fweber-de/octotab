@@ -1,0 +1,21 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.box {
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.time {
+    font-size: 150px;
+    display: block;
+}
+
+.hex-code {
+    font-size: 26px;
+    display: block;
+}

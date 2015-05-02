@@ -1,0 +1,22 @@
+{
+  "name": "octotab",
+  "version": "0.0.0",
+  "homepage": "https://github.com/fweber-de/octotab",
+  "authors": [
+    "Florian Weber <florian.weber.dd@icloud.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "~2.10.2",
+    "jquery": "~2.1.4"
+  }
+}
